@@ -1,0 +1,25 @@
+{
+  "projectName": "example-git-repo",
+  "projectOwner": "sudh-0",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": true,
+  "commitConvention": "none",
+  "contributors": [
+    {
+      "login": "sudh-0",
+      "name": "sudh-0",
+      "avatar_url": "https://avatars.githubusercontent.com/u/50312901?v=4",
+      "profile": "https://github.com/sudh-0",
+      "contributions": [
+        "doc",
+        "ideas"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7
+}
